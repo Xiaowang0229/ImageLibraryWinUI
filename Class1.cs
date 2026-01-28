@@ -2,8 +2,6 @@ using Microsoft.UI.Xaml.Controls;
 using Microsoft.UI.Xaml.Media.Imaging;
 using System;
 using System.Collections.Generic;
-using System.Drawing;
-using System.Drawing.Imaging;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -16,7 +14,7 @@ namespace Xiaowang0229
     {
         namespace WinUI
         {
-            public class Image
+            public class ImageHelper
             {
                 public static BitmapImage ByteArrayToBitmapImage(byte[] imageBytes)
                 {
