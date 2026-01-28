@@ -1,3 +1,3 @@
 @echo off
-dotnet publish ImageLibrary.csproj --output="bin\publish"
+dotnet publish ImageLibraryWinUI.csproj --output="bin\publish"
 pause
