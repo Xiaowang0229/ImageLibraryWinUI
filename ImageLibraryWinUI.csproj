@@ -11,6 +11,7 @@
     <Title>Xiaowang0229sImageLibraryWinUI</Title>
     <Authors>Xiaowang0229</Authors>
     <PackageIcon>Fa6SolidImage.png</PackageIcon>
+    <RepositoryUrl>https://github.com/Xiaowang0229/ImageLibraryWinUI</RepositoryUrl>
   </PropertyGroup>
   <ItemGroup>
     <None Include="Fa6SolidImage.png">
