@@ -12,6 +12,7 @@
     <Authors>Xiaowang0229</Authors>
     <PackageIcon>Fa6SolidImage.png</PackageIcon>
     <RepositoryUrl>https://github.com/Xiaowang0229/ImageLibraryWinUI</RepositoryUrl>
+	  <Description>Resx 文件里的图片提取，保存等操作，（仅适用于WinUI）</Description>
   </PropertyGroup>
   <ItemGroup>
     <None Include="Fa6SolidImage.png">

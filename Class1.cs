@@ -16,7 +16,7 @@ namespace Xiaowang0229
     {
         namespace WinUI
         {
-            class Image
+            public class Image
             {
                 public static BitmapImage ByteArrayToBitmapImage(byte[] imageBytes)
                 {
